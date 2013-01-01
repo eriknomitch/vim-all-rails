@@ -3,7 +3,7 @@
 # ------------------------------------------------
 # CONFIG -----------------------------------------
 # ------------------------------------------------
-files_static=(Gemfile Guardfile vim-all run)
+files_static=(Gemfile Guardfile)
 exclusions=(vendor coverage activesupport public/ckeditor)
 find_extensions=(rb erb scss yml js css feature)
 
