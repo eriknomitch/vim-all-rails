@@ -8,7 +8,7 @@ Requirements
 
 Installation
 ------------
-Clone the repository to `~/.vim-all-rails` and add `$HOME/.vim-all-rails/bin` to your `$PATH`.
+Clone the repository to `~/.vim-all-rails` and add `$HOME/.vim-all-rails/bin` to your `$PATH`. Alternatively, copy `bin/vim-all-rails` to your project's directory.
 
 Credits
 -------
