@@ -10,17 +10,11 @@ find_extensions=(rb erb scss yml js css feature)
 # ------------------------------------------------
 # GLOBALS ----------------------------------------
 # ------------------------------------------------
-files_to_edit=()
+files_to_edit=($files_static)
 
 # ------------------------------------------------
 # MAIN -------------------------------------------
 # ------------------------------------------------
-
-# Push regular files
-for file in $files_static
-do
-  files_to_edit+=($file)
-done
 
 # Push find queries
 for find_extension in $find_extensions
