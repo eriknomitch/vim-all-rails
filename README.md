@@ -1,6 +1,6 @@
 vim-all-rails
 =
-A simple script to open all Rails files in the current project directory.
+A simple Zsh script to open all Rails files in the current project directory with vim
 
 Requirements
 ------------
