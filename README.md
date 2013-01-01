@@ -8,7 +8,7 @@ Requirements
 
 Installation
 ------------
-<!--Clone the repository to `~/.g` and add `source $HOME/.g/g.zsh` to your `~/.zshrc`.-->
+Clone the repository to `~/.vim-all-rails` and add `$HOME/.vim-all-rails/bin` to your `$PATH`.
 
 Credits
 -------
